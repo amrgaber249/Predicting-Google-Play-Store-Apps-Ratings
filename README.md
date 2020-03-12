@@ -4,6 +4,6 @@
 IN PROGRESS:
 - Adding SVR model.
 - Adding a Learning curve plot for each model.
-- had to remove the fine tuning step and will rewrite it due to a small error in the data preprocessing step, and to decide on the best model after adding SVR model.
+- Had to remove the fine tuning step and will rewrite it due to: a small error in the data preprocessing step, deciding which is the best model after adding SVR model, and to add more explanations to it. 
 
 
