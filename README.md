@@ -1,7 +1,9 @@
-# Predicting-Google-Play-Store-Apps-Ratings
+# Predicting-Google-Play-Store-Apps-Ratings 
 
 
-in progress:
-- Rewritting the fine tunning part because there was a small error in the data preprocessing.
+IN PROGRESS:
 - Adding SVR model.
 - Adding a Learning curve plot for each model.
+- had to remove the fine tuning step and will rewrite it due to a small error in the data preprocessing step, and to decide on the best model after adding SVR model.
+
+
